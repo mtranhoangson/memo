@@ -7,7 +7,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/username/tmp.git
+git remote add origin https://github.com/mtranhoangson/terraform.git
 (git remote rm origin)
 git push -u origin main
 ```
